@@ -1,0 +1,11 @@
+age = 20
+student = True
+fees_paid = True
+test_score = 60
+
+
+if age >= 18 and student and fees_paid and not test_score >= 50 :
+    print("You can join the course")
+
+else:
+    print("You cannot join the course")
