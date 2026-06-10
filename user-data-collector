@@ -1,1 +1,9 @@
+name = str(input())
+age = int(input())
+gender = str(input())
 
+# Print details
+
+print("Name of the person is :", name)
+print("Age of the person is :", age)
+print("Gender of the person is :", gender)
